@@ -1,0 +1,14 @@
+C:\Users\vinicius.dallabona\Desktop\projeto 0\bin\Debug\net8.0\projeto 0.exe
+C:\Users\vinicius.dallabona\Desktop\projeto 0\bin\Debug\net8.0\projeto 0.deps.json
+C:\Users\vinicius.dallabona\Desktop\projeto 0\bin\Debug\net8.0\projeto 0.runtimeconfig.json
+C:\Users\vinicius.dallabona\Desktop\projeto 0\bin\Debug\net8.0\projeto 0.dll
+C:\Users\vinicius.dallabona\Desktop\projeto 0\bin\Debug\net8.0\projeto 0.pdb
+C:\Users\vinicius.dallabona\Desktop\projeto 0\obj\Debug\net8.0\projeto 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.dallabona\Desktop\projeto 0\obj\Debug\net8.0\projeto 0.AssemblyInfoInputs.cache
+C:\Users\vinicius.dallabona\Desktop\projeto 0\obj\Debug\net8.0\projeto 0.AssemblyInfo.cs
+C:\Users\vinicius.dallabona\Desktop\projeto 0\obj\Debug\net8.0\projeto 0.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.dallabona\Desktop\projeto 0\obj\Debug\net8.0\projeto 0.dll
+C:\Users\vinicius.dallabona\Desktop\projeto 0\obj\Debug\net8.0\refint\projeto 0.dll
+C:\Users\vinicius.dallabona\Desktop\projeto 0\obj\Debug\net8.0\projeto 0.pdb
+C:\Users\vinicius.dallabona\Desktop\projeto 0\obj\Debug\net8.0\projeto 0.genruntimeconfig.cache
+C:\Users\vinicius.dallabona\Desktop\projeto 0\obj\Debug\net8.0\ref\projeto 0.dll
